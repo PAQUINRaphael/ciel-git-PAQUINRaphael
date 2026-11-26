@@ -1,0 +1,1 @@
+Executer git log --oneline
